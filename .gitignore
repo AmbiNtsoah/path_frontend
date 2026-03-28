@@ -24,7 +24,7 @@ dist-ssr
 *.sw?
 
 #snyk
-.github/instructuions/snyk_rules.instructions.md
+.github/instructions/snyk_rules.instructions.md
 
 #SonarQube
 .sonarlint/*
